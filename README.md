@@ -7,7 +7,3 @@
 
 思君总得君见日, 花落花开终有时
 
-
-
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=qq1640691)
