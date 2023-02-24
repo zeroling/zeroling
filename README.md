@@ -1,5 +1,5 @@
-# ZEROTING
-:gift_heart:TING
+# ZEROLING
+:gift_heart:NO
 
 自云良家子, 零落依草木
 
